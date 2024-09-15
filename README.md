@@ -1,5 +1,4 @@
-<img src="https://gamakaai.com/wp-content/uploads/2019/06/java-banner-1-1024x332.png" alt="Java Banner" style="display: block; margin: auto;" />
-
+<img src="https://cdn.prod.website-files.com/62e2573821100dba34dd0985/64f85a7b173d1ee5be13476a_java_banner%20(1).webp" alt="Java Banner" style="display: block; margin: auto;" />
 
 
 <h1 align="center">Hi 👋, I'm Ali Bakır</h1>
