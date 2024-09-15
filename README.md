@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Ali Bakır</h1>
 <h3 align="center">Software Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 🌱 I generally develop **Java Spring** projects.
+  
+
 
 - 💬 Ask me about **Java**
 
